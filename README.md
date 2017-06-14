@@ -143,6 +143,8 @@ FileHandlerを自前で作成することは想像できるが、Logger.emit()�
 標準Pythonの範囲であればSysLogHandler、より大規模な集約を想定して
 Fluentd等々色々選択肢はある。
 
+参考: http://d.hatena.ne.jp/higher_tomorrow/20101225/1293277510
+
 # License
 
 MIT
