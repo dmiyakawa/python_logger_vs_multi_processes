@@ -74,7 +74,8 @@ $ python multi_run.py -n 100 -t size
 
 TimedRotatingFileHandler を用いている場合はもう少し悲惨で、
 ローテーションが発生するタイミングが概ねいつも一致するため、
-目に見えてこの問題が発生する。以下に例を示す
+より露骨にこの問題が発生する。以下に例を示す
+
 
 ```
 $ python multi_run.py -n 100 -t time
